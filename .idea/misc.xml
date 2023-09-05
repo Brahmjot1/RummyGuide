@@ -1,0 +1,46 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/drawable-v24/homepopupbg.xml" value="0.1645" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/drawable/bg_exit_button.xml" value="0.1645" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/drawable/bg_round_text.xml" value="0.1645" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/drawable/btn_bg_diloage.xml" value="0.1645" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/drawable/diloage_bg.xml" value="0.1645" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/actionbar_home.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/activity_main.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/activity_splash.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/activity_web.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/ad_buttome.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/app_bar_main.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/content_main.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/dialogue_home_exit.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/dialogue_homepopup.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/dialogue_notify.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/dialogue_updateapp.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/row_home_dara.xml" value="0.365625" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/row_home_data.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/layout/row_home_slider.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Guide Project/Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1645" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Plaza Guide Project/Project/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Plaza Guide Project/Project/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Rummy Plaza Guide Project/Project/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Ruumy Apps/3 Patti App Project/Project/app/src/main/res/layout/activity_main.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Ruumy Apps/3 Patti App Project/Project/app/src/main/res/layout/activity_splash.xml" value="0.215625" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Ruumy Apps/Magical Rummy Guide/Project/app/src/main/res/layout/actionbar_home.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Ruumy Apps/Magical Rummy Guide/Project/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Ruumy Apps/Magical Rummy Guide/Project/app/src/main/res/layout/activity_splash.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/All PDAvenue Apps/Ruumy Apps/Rummy Rise Project/Project/app/src/main/res/layout/activity_splash.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/Client Project/Rummy Guide App/Project/app/src/main/res/layout/actionbar_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/Client Project/Rummy Guide App/Project/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Desktop/Romik Project/Client Project/Rummy Guide App/Project/app/src/main/res/layout/activity_splash.xml" value="0.36102564102564105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
